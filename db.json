@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "products": {
+  "products": [
     {
     "id": 1,
     "name": "Helado sándwich de nata",
@@ -68,5 +68,5 @@
     "extraInfo": "Caja 2 ud. (350 ml)",
     "price": 2.05
   }
-  }
+  ]
 }
